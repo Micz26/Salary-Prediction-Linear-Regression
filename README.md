@@ -1,2 +1,2 @@
-# Salary-Prediction
+# Salary-Prediction-Linear-Regression
 This project involves building a salary prediction model using the Linear Regression algorithm. The goal is to predict salaries based on various features using a dataset provided in the `data.csv` file. The project includes data preprocessing, feature selection, model training, and evaluation. The script aims to find the best model configuration by iteratively dropping correlated features and evaluating the MAPE. The final output is the minimum MAPE achieved by choosing the optimal configuration.
